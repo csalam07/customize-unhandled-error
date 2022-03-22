@@ -1,0 +1,54 @@
+{
+  "name": "customize-unhandled-error",
+  "version": "1.0.0",
+  "description": "Custom error handleError for the script crash on unhandled rejections.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/customize-unhandled-error.git"
+  },
+  "keywords": [
+    "error",
+    "unhandle",
+    "unhandled",
+    "cli",
+    "cli-unhandleed-error",
+    "customize-unhandled-error",
+    "customize",
+    "customize-error",
+    "customize-unhandled",
+    "unhandled-cli",
+    "unhandled console",
+    "unhandled-console",
+    "unhandled-customize-console",
+    "unhandled-node-console",
+    "unhandled  windows",
+    "unhandled  macos",
+    "unhandled  linux",
+    "unhandled  windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/customize-unhandled-error/issues"
+  },
+  "homepage": "https://github.com/csalam07/customize-unhandled-error#readme",
+  "dependencies": {
+    "error-handle-cli": "^1.0.2"
+  }
+}
